@@ -9,4 +9,9 @@ html , body{
 }
 body{
     background: linear-gradient(to top, rgb(132, 49, 49),rgb(175, 128, 136));
+    text-align: center;
+}
+h1{
+    width: 20vw;
+    margin: 0 auto;
 }
